@@ -1,4 +1,3 @@
-```markdown
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
@@ -104,8 +103,3 @@ Distributed under the MIT License. See `LICENSE` for more information.
 Your Name - [email@example.com](mailto:email@example.com)
 
 Project Link: [https://github.com/your-username/python-repository](https://github.com/your-username/python-repository)
-``
-
-`
-
-In this version, I added a project logo at the top, customized the table of contents, used badges for license and Python version, and added more visual elements to make the README.md file look better and more appealing. Remember to replace "your-username" and "email@example.com" with your actual GitHub username and contact email address.
